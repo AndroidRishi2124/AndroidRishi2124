@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndroidRishi2124.
+- 👋 Hi, I’m @RishabhRana.
 - 👀 I’m interested in Android Development.
 - 🌱 I’m currently learning Android Programming.
 - 📫 How to reach me via mail - rishabhrana2124@gmail.com
